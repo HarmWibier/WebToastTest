@@ -1,4 +1,10 @@
-﻿Use cWebObject.pkg
+﻿/*
+Version 0.2.00
+Copyright 2026 Data Access Worldwide, Inc.
+
+*/
+
+Use cWebObject.pkg
 
 Enum_List
     Define wtpTopRight
